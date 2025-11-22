@@ -7,9 +7,9 @@
     "Simple and scalable architecture",
   ],
   "stack": {
-    "languages": [TypeScript", "Go", "Dart"],
+    "languages": ["TypeScript", "Go", "Dart"],
     "frameworks": ["React", "React Native"],
     "infrastructure": ["Docker", "RabbitMQ"]
-  },
+  }
 }
 ```
